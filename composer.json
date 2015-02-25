@@ -1,0 +1,13 @@
+{
+    "name": "vuquangthinh/yii2-swiper",
+    "description": "idangerous Swiper wrapper on yii2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vu Quang Thinh",
+            "email": "quangthinh.dico@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
