@@ -1,5 +1,5 @@
 {
-    "name": "vuquangthinh/yii2-swiper",
+    "name": "quangthinh/yii2-swiper",
     "description": "idangerous Swiper wrapper on yii2",
     "license": "MIT",
     "authors": [
@@ -9,5 +9,16 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {}
+    "require": {
+        "bower-asset/swiper" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "quangthinh\\yii2-swiper": ""
+        }
+    },
+    "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
 }
