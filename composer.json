@@ -10,6 +10,7 @@
     ],
     "minimum-stability": "beta",
     "require": {
+        "yiisoft/yii2" : "*",
         "bower-asset/swiper" : "*"
     },
     "autoload": {
