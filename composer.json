@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "quangthinh\\yii2\\swiper": ""
+            "quangthinh\\yii2\\swiper\\": ""
         }
     },
     "asset-installer-paths": {
