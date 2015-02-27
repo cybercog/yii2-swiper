@@ -2,6 +2,7 @@
     "name": "quangthinh/yii2-swiper",
     "description": "idangerous Swiper wrapper on yii2",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "Vu Quang Thinh",
