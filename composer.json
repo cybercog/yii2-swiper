@@ -12,7 +12,7 @@
     "minimum-stability": "beta",
     "require": {
         "yiisoft/yii2" : "*",
-        "bower-asset/swiper" : "*"
+        "bower-asset/swiper" : ">3"
     },
     "autoload": {
         "psr-4": {
